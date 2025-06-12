@@ -9,4 +9,12 @@ The provided Python program is a graphical weather application built using the t
 *OUTPUT PHOTO* :
 
 
+![Image](https://github.com/user-attachments/assets/fbea3b24-1717-4be3-9ec8-2b647f9f7b4f)
+
+*OUTPUT VIDEO* :
+
+
+https://github.com/user-attachments/assets/a460a29b-f778-4a6e-87bf-44ac1c9a522f
+
+
 
